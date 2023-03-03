@@ -1,0 +1,11 @@
+{
+  "name": "word-search",
+  "version": "1.0.0",
+  "description": "Pair programmin WEEK 5",
+  "main": "wordsearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Simmies and gautam khosla",
+  "license": "ISC"
+}
